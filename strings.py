@@ -9,3 +9,18 @@ class Url:
 
 class Numbers:
     five = 5
+    two = 2
+
+
+class Find_elements_by_id:
+    email_id = 'user-name'
+    password_id = 'password'
+
+
+class find_elements_by_class:
+    app_logo = 'app_logo'
+
+
+class strings:
+    username_standard_user = 'standard_user'
+    password = 'secret_sauce'
